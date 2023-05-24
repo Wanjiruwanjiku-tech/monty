@@ -25,7 +25,6 @@ typedef struct stack_s
 	struct stack_s *next;
 } stack_t;
 
-stack_t *stack = NULL; /* Global variable */
 
 /**
 * struct instruction_s - opcode and its function

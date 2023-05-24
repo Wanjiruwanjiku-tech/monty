@@ -2,6 +2,7 @@
 #include <stdio.h>
 
 #define MAX_LINE_SIZE 100
+stack_t *stack = NULL;
 
 /**
 *main - The Main Entry point
